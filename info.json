@@ -1,8 +1,8 @@
 {
   "name": "themightygugi_alwaysday",
-  "version": "2.1.0",
-  "factorio_version": "1.0",
-  "dependencies": ["base >= 1.0.0"],
+  "version": "2.1.1",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1.0"],
   "title": "Always Day",
   "author": "Themightygugi",    
   "description": "Your planet has two suns. It's always day time around here!"
